@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Click on the reveal button below to reveal each ingredient one-by-one or click on the show button to reveal the ingredients all at once..png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
